@@ -41,7 +41,7 @@ class ContactCardPage extends StatelessWidget {
                 mainAxisSize: MainAxisSize.max,
                 children: [
                   CircleAvatar(
-                    radius: 120,
+                    radius: 150,
                     backgroundImage: AssetImage('assets/ras.JPG'), // Use backgroundImage for asset images
                   ),
                   const SizedBox(height: 25),
